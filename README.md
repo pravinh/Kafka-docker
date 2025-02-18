@@ -40,3 +40,5 @@
 2. Click on the **test-topic** you created.
 3. Click on **View Messages**.
 4. You should see the messages you sent from the producer.
+
+##Note: Tested only on MacBook Pro M1 with Docker Desktop
